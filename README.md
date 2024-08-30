@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 吕宏鸿的自我介绍
 
-<!--
-**LHH778/LHH778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 😄 基本信息
+- **姓名**：吕宏鸿
+- **班级**：22计科2班
+- **学校**：广东工业大学
 
-Here are some ideas to get you started:
+## 🌱 爱好
+- 羽毛球
+- 摄影
+- 骑行
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 研究方向
+- 计算机视觉
+
+## 联系方式
+- 📫 邮箱：[3122004446@mail2.gdut.edu.cn](mailto:3122004446@mail2.gdut.edu.cn)
+
+---
+
+希望这份自我介绍能够清晰地展示您的信息，同时保持专业和友好的风格。如果您有任何其他信息需要添加或修改，请随时告诉我。
